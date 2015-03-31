@@ -3,3 +3,6 @@ init:
 
 run:
 	bash run.sh
+
+cleardata:
+	rm -rf sesame-data/* 

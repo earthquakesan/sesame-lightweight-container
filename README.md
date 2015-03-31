@@ -7,3 +7,5 @@ $ make run
 
 The OpenRDF Sesame should be accessible here: http://localhost:8089/openrdf-sesame/home/overview.view
 The OpenRDF Workbench should be accessible here: http://localhost:8089/openrdf-workbench
+
+To setup JAVA_OPT, see run.sh! (memory dedicated for JVM by default is 512Mb)
